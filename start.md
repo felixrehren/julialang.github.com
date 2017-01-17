@@ -18,7 +18,7 @@ This page is a 60 second guide to get you started for taking part and pitching i
 * **Dogfood**: almost all the Julia-internals are written in Julia!
 * A super strong **package ecosystem**
 * Ability to call C and Python inline
-* [NEW IN v0.5] **Vectorisation** made easy with `f.()` as syntax for vectorised `f()`. Easy parallelizatiosn available too ...
+* [NEW IN v0.5] **Vectorisation** made easy with `f.()` as syntax for vectorised `f()`. Easy parallelizations available too ...
 * And, finally, a brilliant **community** that welcomes contributors! Ask anything on [Discourse](https://discourse.julialang.org/), fork us on [Github](https://github.com/JuliaLang/julia)
 
 <div class="figure">
@@ -30,9 +30,9 @@ benchmark times relative to C (smaller is better, C performance = 1.0), see [ben
 </p>
 </div>
 
-If you've seen Julia before, check out what we achieved in [2016's version 0.5](http://julialang.org./blog/2016/10/julia-0.5-highlights). There's more to come for Julia. Much more!
-
 <a href="/images/ijulia.png"><img class="u-center" src="/images/ijulia.png" width="90%" /></a>
+
+If you've seen Julia before, check out what we achieved in [2016's version 0.5](http://julialang.org./blog/2016/10/julia-0.5-highlights). There's more to come for Julia. Much more!
 
 # What's next
 

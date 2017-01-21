@@ -46,7 +46,7 @@ Lots of things are planned for Julia 1.0. It's our first stable release, and it'
 Any help is welcome. Here's our [CONTRIBUTING.md](https://github.com/JuliaLang/julia/blob/master/CONTRIBUTING.md), and here are a few ideas to get started.
 
 * Work on packages. There are lots of great projects that would like a hand:
-    * [DiffEq.jl](https://github.com/JuliaDiffEq/DifferentialEquations.jl), a unifying differential equations framework ([blog](http://www.stochasticlifestyle.com/6-months-differentialequations-jl-going/))
+    * [DifferentialEquations.jl](https://github.com/JuliaDiffEq/DifferentialEquations.jl), a unifying differential equations framework ([blog](http://www.stochasticlifestyle.com/6-months-differentialequations-jl-going/))
     * [Nemo.jl](http://nemocas.org/), a computer algebra system
     * [Juno](https://github.com/JunoLab/atom-julia-client/issues), the Atom-based IDE
     * [Turing.jl](https://github.com/yebai/Turing.jl), for probabilistic programming
